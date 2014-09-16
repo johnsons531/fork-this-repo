@@ -1,4 +1,10 @@
 Resources About Git and Github
 -------------------------------
 
-
+- Help from Github [https://help.github.com/](https://help.github.com/)
+- Expore Projects on Github [https://github.com/explore](https://github.com/explore)
+- Book About Git (free and online!) [http://git-scm.com/book](http://git-scm.com/book)
+- Documentation [http://git-scm.com/documentation](http://git-scm.com/documentation)
+- Try Git (tutorial by Github) [https://try.github.io](https://try.github.io)
+- Octocat [https://octodex.github.com/](https://octodex.github.com/)
+- add your own...
