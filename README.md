@@ -2,6 +2,7 @@ fork-this-repo
 ==============
 
 A repository for students to fork while learning about Git and Github.
+
 Repository: [https://github.com/johnsons531/fork-this-repo](https://github.com/johnsons531/fork-this-repo)
 
 1. In Github, click on "Fork" (top right of the page).
