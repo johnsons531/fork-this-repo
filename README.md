@@ -2,9 +2,9 @@ fork-this-repo
 ==============
 
 A repository for students to fork while learning about Git and Github.
+Repository: [https://github.com/johnsons531/fork-this-repo](https://github.com/johnsons531/fork-this-repo)
 
 1. In Github, click on "Fork" (top right of the page).
-[https://github.com/johnsons531/fork-this-repo](https://github.com/johnsons531/fork-this-repo)
 2. Find the new repository in your Github site.
 Go to https://github.com/[your-username]?tab=repositories
 3. Find the "clone URL" and copy it.
